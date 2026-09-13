@@ -37,7 +37,6 @@ A modern, responsive portfolio website showcasing my projects and professional e
 
 Each section is built incrementally and tested before moving to the next.
 
-For development workflow, see [AGENTS.md](AGENTS.md).
 =======
 # Personal Portfolio Website
 
