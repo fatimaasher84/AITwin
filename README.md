@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Personal Portfolio Website
 
 A modern, responsive portfolio website showcasing my projects and professional experience.
