@@ -76,6 +76,3 @@ A modern, responsive portfolio website showcasing my projects and professional e
 ## Development
 
 Each section is built incrementally and tested before moving to the next.
-
-For development workflow, see [AGENTS.md](AGENTS.md).
->>>>>>> 820131b7dea7eeaddb6ddf2f4e4bf62249b248ed
